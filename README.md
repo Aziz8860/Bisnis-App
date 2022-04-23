@@ -1,6 +1,6 @@
 # Bisnis-App
 A mini investment platform where SMEs and investors meet.
 
-<p align="center"><img src="https://github.com/Aziz8860/Bisnis-App/blob/main/screenshot.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Aziz8860/Bisnis-App/main/screenshot2.png" width="25%"></p>
 
-<h5>Haven't used React Hooks yet, still transferring state manually.</h5>
+<h6>Built with React-Native. Haven't used React Hooks yet, still transferring state manually from component to other component.</h6>
